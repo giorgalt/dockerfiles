@@ -1,3 +1,3 @@
+# begin the image: FROM, ARG and MAINTAINER
 FROM debian
-LABEL maintanier=@joshuacook
-ARG DEBIAN_FRONTEND=noninteractive 
+
